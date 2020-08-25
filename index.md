@@ -1,4 +1,6 @@
+<head>
 <meta name="google-site-verification" content="AZBV_sFKst76UD4d6LxLeXEtS9sh327TuYLMk5aGfpw" />
+</head>
 
 # Newton's Law of Gravity Untiy3D Simulation
 *Author*: Christopher Ruskai
