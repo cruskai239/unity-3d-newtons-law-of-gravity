@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+# Newton's Law of Gravity Untiy3D Simulation
+*Author*: Christopher Ruskai
 
-You can use the [editor on GitHub](https://github.com/cruskai239/unity-3d-newtons-law-of-gravity/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+*License*: MIT
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+___
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Objective
 
-```markdown
-Syntax highlighted code block
+The objective of this software is to learn more about both the Unity3D Engine and Newton's Law of Physics by creating a virtual experiment using Newton's Formula.
 
-# Header 1
-## Header 2
-### Header 3
+## Topics Covered
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/cruskai239/unity-3d-newtons-law-of-gravity/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+The Unity topics covered include:
+- Built in 3D shapes
+- The RigidBody component
+- Creating custom components using C# and attaching them to your GameObjects
+- The Vector3dObject
+- Making GameObjects accelerate by applying a force vector
+- Setting the initial velocity of a GameObject
+- Integrating custom component's configuration with the Unity3D Editor 
